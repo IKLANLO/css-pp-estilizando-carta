@@ -19,11 +19,15 @@ address, h1, h2, p, ul, ol {
 }
 
 body {
-  margin: 5% 26.4%;
+  margin: 5% 26.2%;
 }
 
 ul, ol {
   margin-left: 5%;
+}
+
+.subrayado {
+  text-decoration: underline;
 }
 
 pre {
@@ -36,4 +40,12 @@ pre {
 
 .descripcion {
   margin-left: 5%;
+}
+
+.cursiva {
+  font-style: italic;
+}
+
+a {
+  color: blue;
 }
