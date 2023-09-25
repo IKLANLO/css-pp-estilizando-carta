@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family:serif;
+}
+
+.dir, .fecha {
+    text-align: end;
+}
+
+.negrita {
+  font-weight: bold;
+}
+
+address, h1, h2, p, ul, ol {
+  margin-bottom: 2% ;
+}
+
+body {
+  margin: 5% 26.4%;
+}
+
+ul, ol {
+  margin-left: 5%;
+}
+
+pre {
+  margin-left: 0;
+}
+
+.titulo, .descripcion {
+  margin:0;
+}
+
+.descripcion {
+  margin-left: 5%;
+}
